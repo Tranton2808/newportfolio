@@ -4,13 +4,13 @@
   --header-height: 3.5rem;
 
   --first-color: #00e7ff;
-  --title-color: #1b2430;
-  --text-color: #f73d93;
-  --text-color-light: #270082;
-  --body-color: #fffbeb;
-  --container-color: #e6ddc4;
+  --title-color: #272d3b;
+  --text-color: #f46330;
+  --text-color-light: #05e9f1;
+  --body-color: #ffffff;
+  --container-color: #ffca00;
 
-  --gradient-color: linear-gradient(180deg, #b983ff, #94b3fd);
+  --gradient-color: linear-gradient(90deg, #e94560, #1b2430);
 
   --body-font: "Dosis", sans-serif;
   --title-font: "Inconsolata", monospace;
@@ -50,11 +50,11 @@ body {
 }
 
 body.dark-theme {
-  --title-color: #00ffab;
-  --text-color: #fb2576;
-  --text-color-light: #fcf8e8;
-  --body-color: hsl(207, 4%, 10%);
-  --container-color: hsl(207, 4%, 12%);
+  --title-color: #ea4320;
+  --text-color: #ffba2f;
+  --text-color-light: #fee8a0;
+  --body-color: #282037;
+  --container-color: #464c6e;
 }
 
 h1,
