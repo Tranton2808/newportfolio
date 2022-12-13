@@ -5,10 +5,10 @@
 
   --first-color: #00e7ff;
   --title-color: #272d3b;
-  --text-color: #f46330;
-  --text-color-light: #05e9f1;
-  --body-color: #ffffff;
-  --container-color: #ffca00;
+  --text-color: #5f9df7;
+  --text-color-light: #6f38c5;
+  --body-color: #ededed;
+  --container-color: #d8d9cf;
 
   --gradient-color: linear-gradient(90deg, #e94560, #1b2430);
 
@@ -50,11 +50,11 @@ body {
 }
 
 body.dark-theme {
-  --title-color: #ea4320;
-  --text-color: #ffba2f;
-  --text-color-light: #fee8a0;
-  --body-color: #282037;
-  --container-color: #464c6e;
+  --title-color: #b9fff8;
+  --text-color: #f8f988;
+  --text-color-light: #b3ffae;
+  --body-color: #434242;
+  --container-color: #404258;
 }
 
 h1,
@@ -279,7 +279,7 @@ img {
 .home__info-title {
   font-family: var(--body-font);
   font-size: var(--smaller-font-size);
-  font-weight: 400;
+  font-weight: 600;
   color: var(--text-color-light);
   margin-bottom: 1rem;
 }
@@ -886,6 +886,7 @@ img {
 
   .nav__link {
     font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
   }
 
   .dark-theme .nav,
