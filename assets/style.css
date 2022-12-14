@@ -10,7 +10,7 @@
   --body-color: #ededed;
   --container-color: #d8d9cf;
 
-  --gradient-color: linear-gradient(90deg, #e94560, #1b2430);
+  --gradient-color: linear-gradient(180deg, #2944f9, #a0cecb);
 
   --body-font: "Dosis", sans-serif;
   --title-font: "Inconsolata", monospace;
@@ -232,7 +232,7 @@ img {
 }
 
 .home__perfil img {
-  width: 150px;
+  width: 120px;
 }
 
 .home__shape-wawes,
@@ -573,7 +573,7 @@ img {
 }
 
 .color-blue {
-  color: blue !important;
+  color: green !important;
 }
 .color-red {
   color: red;
@@ -954,30 +954,30 @@ img {
 
   .home__blob {
     width: 400px;
-    height: 580px;
+    height: 600px;
     border-radius: 12.5rem;
   }
 
   .home__perfil {
     width: 340px;
-    height: 520px;
+    height: 540px;
     border-radius: 10.6rem;
   }
 
   .home__perfil img {
-    width: 200px;
+    width: 250px;
   }
 
   .home__shape-wawes {
-    width: 200px;
-    left: -8rem;
-    top: 10rem;
+    width: 240px;
+    left: -5rem;
+    top: 8rem;
   }
 
   .home__shape-circle {
-    width: 320px;
+    width: 400px;
     bottom: -1rem;
-    right: -10rem;
+    right: -12rem;
   }
 
   .home__data {
