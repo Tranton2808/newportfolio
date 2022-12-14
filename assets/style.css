@@ -3,12 +3,12 @@
 :root {
   --header-height: 3.5rem;
 
-  --first-color: #00e7ff;
-  --title-color: #272d3b;
-  --text-color: #5f9df7;
-  --text-color-light: #6f38c5;
-  --body-color: #ededed;
-  --container-color: #d8d9cf;
+  --first-color: #91d0df;
+  --title-color: #303030;
+  --text-color: #303030;
+  --text-color-light: #88bfd7;
+  --body-color: #f9f9f9;
+  --container-color: #cfe5f0;
 
   --gradient-color: linear-gradient(180deg, #2944f9, #a0cecb);
 
@@ -50,11 +50,11 @@ body {
 }
 
 body.dark-theme {
-  --title-color: #b9fff8;
-  --text-color: #f8f988;
-  --text-color-light: #b3ffae;
-  --body-color: #434242;
-  --container-color: #404258;
+  --title-color: #87504e;
+  --text-color: #daccc5;
+  --text-color-light: #daccc5;
+  --body-color: #32274b;
+  --container-color: #4e447f;
 }
 
 h1,
